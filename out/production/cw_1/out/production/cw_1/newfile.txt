@@ -1,0 +1,1 @@
+product list[Electronics - Product ID: 13, Name: iron, Available Items: 10, Price: 1000.00, Brand: pilips, Warranty Period: 12 months]
