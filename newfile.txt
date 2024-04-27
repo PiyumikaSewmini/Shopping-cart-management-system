@@ -1,0 +1,1 @@
+product list[Clothes - Product ID: 1, Name: shirt, Available Items: 10, Price: 1000.00, Color: red, Size: 12]
